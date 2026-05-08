@@ -1,1 +1,2 @@
 -- Add your SQL here
+SELECT * FROM GROCERY LIMIT 5;
